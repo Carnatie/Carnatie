@@ -8,9 +8,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-### Minhas Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+## Minhas Estatísticas do GitHub
+<div style="display: inline_block>
+  <a href="https://github.com/Carnatie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carnatie&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnatie&layout=compact"/>
 </div>

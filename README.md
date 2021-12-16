@@ -9,6 +9,8 @@
 </div><br/>
 
 ### Minhas Estatísticas do GitHub
-
-![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=Carnatie&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carnatie&layout=compact)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carnatie&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnatie&layout=compact"/>
+</div>

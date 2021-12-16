@@ -11,6 +11,6 @@
 ## Minhas Estatísticas do GitHub
 <div style="display: inline_block>
   <a href="https://github.com/Carnatie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carnatie&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnatie&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Carnatie&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnatie&layout=compact"/>
 </div>

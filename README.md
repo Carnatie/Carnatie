@@ -1,4 +1,8 @@
 [![MasterHead](https://github.com/Carnatie/Carnatie/blob/main/banner.png)](https://github.com/Carnatie) 
+<div align="center">
+ <p> Amante da tecnologia com sede para novos desafios e conquistas, atualmente se aventurando no Back-End </p>
+</div>
+ 
 
 ## Tecnologias que eu uso no meu dia
 

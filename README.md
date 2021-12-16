@@ -13,8 +13,10 @@
 </div><br/>
 
 ## Minhas Estatísticas do GitHub
-<div style="display: inline_block>
+<div align="center">
   <a href="https://github.com/Carnatie">
   <img src="https://github-readme-stats.vercel.app/api?username=Carnatie&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnatie&layout=compact"/>
+   
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
 </div>

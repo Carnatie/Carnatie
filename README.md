@@ -16,6 +16,7 @@
   <a href="https://github.com/Carnatie">
   <img src="https://github-readme-stats.vercel.app/api?username=Carnatie&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnatie&layout=compact"/>
+   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Carnatie&layout=compact)](https://github.com/Carnatie/github-readme-stats)
    
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carnatie)
    

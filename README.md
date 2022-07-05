@@ -18,6 +18,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnatie&layout=compact"/>
    
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carnatie)
-   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=Carnatie&theme=gotham&hide_border=true&area=true)
 </div>
